@@ -1,0 +1,12 @@
+# Dependencias de Node.js
+node_modules/
+
+# Variables de entorno
+.env
+
+# Credenciales privadas de Firebase
+credentials/
+
+# Archivos temporales de diagnóstico
+testFirebase.js
+testAuthMiddleware.js
